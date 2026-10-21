@@ -1,0 +1,3 @@
+Reported_At,Warehouse,Product_ID,Incident_Type,Severity,Description,Reporter
+2026-10-09 14:05:37.386822,Mangaluru,P002,Expired Stock,Medium,very bad quality..,admin
+2026-10-12 10:45:38.440133,Bengaluru,P003,Damaged Stock,Critical,very,admin
